@@ -2,8 +2,9 @@
 Repositorio dedicado a guardar a logo e imagens que seão usadas durante o desenvolvimento do projeto 
 
 # Navegação
-## [Main Page]("https://github.com/Vem-Comigo")
-## [Documentação]("https://github.com/Vem-Comigo/vemcomigo-docs")
-## [Backend]("https://github.com/Vem-Comigo/vemcomigo-backend")
-## [Frontend]("https://github.com/Vem-Comigo/vemcomigo-frontend")
-## [Assets]("https://github.com/Vem-Comigo/vemcomigo-assets")
+## <a href="https://github.com/Vem-Comigo" target="_blank">Main Page</a>
+## <a href="https://github.com/Vem-Comigo/vemcomigo-frontend" target="_blank">Frontend</a>
+## <a href="https://github.com/Vem-Comigo/vemcomigo-backend" target="_blank">Backend</a>
+## <a href="https://github.com/Vem-Comigo/vemcomigo-assets" target="_blank">Assets</a>
+
+
